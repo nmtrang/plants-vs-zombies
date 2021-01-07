@@ -1,0 +1,96 @@
+package root.GameMode.Visuals;
+
+import javax.swing.ImageIcon;
+
+public class NightMode extends VisualMode {
+
+    public NightMode() {
+        BackgroundImage = new ImageIcon(BACKGROUND_NIGHT).getImage();
+
+        SunImage = new ImageIcon(SUN).getImage();
+
+        ShovelImage = new ImageIcon(SHOVEL).getImage();
+        ShovelButtonImage = new ImageIcon(SHOVEL_BUTTON).getImage();
+
+        LawnmowerImage = new ImageIcon(LAWNMOWER).getImage();
+        LawnmowerMovingImage = new ImageIcon(LAWNMOWER_MOVING).getImage();
+
+        ShovelButtonIcon = new ImageIcon(ShovelButtonImage);
+
+        SunFlowerImage = new ImageIcon(SUNFLOWER).getImage();
+        SunFlowerCardIcon = new ImageIcon(SUNFLOWER_CARD);
+
+        //PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS PLANTS
+        //puff shroom
+        PuffShroomImage = new ImageIcon(PUFF_SHROOM).getImage();
+        PuffShroomCardIcon = new ImageIcon(PUFF_SHROOM_CARD);
+
+        //sun shroom
+        SunShroomImage = new ImageIcon(SUN_SHROOM).getImage();
+        SunShroomCardIcon = new ImageIcon(SUN_SHROOM_CARD);
+
+        //pea shooter
+        PeaShooterImage = new ImageIcon(PEASHOOTER).getImage();
+        PeaShooterCardIcon = new ImageIcon(PEASHOOTER_CARD);
+
+        //snow pea
+        SnowPeaCardIcon = new ImageIcon(SNOW_PEA_CARD);
+        SnowPeaImage = new ImageIcon(SNOW_PEA).getImage();
+
+        //repeater
+        RepeaterImage = new ImageIcon(REPEATER).getImage();
+        RepeaterCardIcon = new ImageIcon(REPEATER_CARD);
+
+        //types of pea
+        PeaImage = new ImageIcon(PEA).getImage();
+        FreezePeaImage = new ImageIcon(SNOW).getImage();
+        MushroomImage = new ImageIcon(MUSHROOM).getImage();
+
+        //three pea shooter
+        GatlingPeaImage = new ImageIcon(GATLING_PEA).getImage();
+        GatlingPeaCardIcon = new ImageIcon(GATLING_PEA_CARD);
+
+        //walnut
+        Walnut1 = new ImageIcon(WALNUT1).getImage();
+        Walnut2 = new ImageIcon(WALNUT2).getImage();
+        Walnut3 = new ImageIcon(WALNUT3).getImage();
+        WalnutCardIcon = new ImageIcon(WALNUT_CARD);
+
+        //ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE ZOMBIE
+        //normal zombie
+        NormalZombieWalkImage = new ImageIcon(NORMAL_ZOMBIE).getImage();
+        NormalZombieEatImage = new ImageIcon(NORMAL_ZOMBIE_EAT).getImage();
+        NormalZombieDieImage = new ImageIcon(NORMAL_ZOMBIE_DIE).getImage();
+        NormalZombieLostHeadWalkImage = new ImageIcon(NORMAL_ZOMBIE_LOST_HEAD).getImage();
+        NormalZombieLostHeadEatImage = new ImageIcon(NORMAL_ZOMBIE_LOST_HEAD_EAT).getImage();
+
+        //cone head zombie
+        ConeHeadZombieWalkImage = new ImageIcon(CONE_HEAD_ZOMBIE).getImage();
+        ConeHeadZombieEatImage = new ImageIcon(CONE_HEAD_ZOMBIE_EAT).getImage();
+
+        //bucket head zombie
+        BucketHeadZombieWalkImage = new ImageIcon(BUCKET_HEAD_ZOMBIE).getImage();
+        BucketHeadZombieEatImage = new ImageIcon(BUCKET_HEAD_ZOMBIE_EAT).getImage();
+
+        //flag zombie
+        FlagZombieImage = new ImageIcon(FLAG_ZOMBIE).getImage();
+        FlagZombieEatImage = new ImageIcon(FLAG_ZOMBIE_EAT).getImage();
+        FlagZombieLostHeadImage = new ImageIcon(FLAG_ZOMBIE_LOST_HEAD).getImage();
+        FlagZombieLostHeadEatImage = new ImageIcon(FLAG_ZOMBIE_LOST_HEAD_EAT).getImage();
+
+        //newspaper zombie
+        NewspaperZombieImage = new ImageIcon(NEWSPAPER_ZOMBIE).getImage();
+        NewspaperZombieEatImage = new ImageIcon(NEWSPAPER_ZOMBIE_EAT).getImage();
+        NewsZombieImage = new ImageIcon(NEWS_ZOMBIE).getImage();
+        NewsZombieEatImage = new ImageIcon(NEWS_ZOMBIE_EAT).getImage();
+        NewsZombieLostHeadImage = new ImageIcon(NEWS_ZOMBIE_LOST_HEAD).getImage();
+        NewsZombieLostHeadEatImage = new ImageIcon(NEWS_ZOMBIE_LOST_HEAD_EAT).getImage();
+
+        //zombie die
+        for (int i = 0; i < ZOMBIE_DIE.length; i++) {
+            ZombieDie[i] = new ImageIcon(ZOMBIE_DIE[i]).getImage();
+        }
+
+        initFont();
+    }
+}
