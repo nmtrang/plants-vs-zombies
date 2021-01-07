@@ -23,7 +23,7 @@ Here is our [Report](http://bit.ly/2SJR6cQ)
 # How to Play?
 Clone the repository and then choose your preferences below:
 ```
-git clone https://github.com/tri2820/PlantsVersusZombies
+git clone https://github.com/nmtrang/PvZ
 ```
 - Run RunPvZ.cmd (if you use Windows) or RunPvZ.sh (if you use MacOS).
 - For developers, you can also run the game by running the Main.java in an IDE.
