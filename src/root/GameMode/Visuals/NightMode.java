@@ -86,6 +86,12 @@ public class NightMode extends VisualMode {
         NewsZombieLostHeadImage = new ImageIcon(NEWS_ZOMBIE_LOST_HEAD).getImage();
         NewsZombieLostHeadEatImage = new ImageIcon(NEWS_ZOMBIE_LOST_HEAD_EAT).getImage();
 
+        // Snow zombie
+        SnowZombieImage = new ImageIcon(SNOW_ZOMBIE).getImage();
+        SnowZombieEatImage = new ImageIcon(SNOW_ZOMBIE_EAT).getImage();
+        SnowZombieLostHeadImage = new ImageIcon(SNOW_ZOMBIE_LOST_HEAD).getImage();
+        SnowZombieLostHeadEatImage = new ImageIcon(SNOW_ZOMBIE_LOST_HEAD_EAT).getImage();
+
         //zombie die
         for (int i = 0; i < ZOMBIE_DIE.length; i++) {
             ZombieDie[i] = new ImageIcon(ZOMBIE_DIE[i]).getImage();
