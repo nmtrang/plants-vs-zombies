@@ -27,7 +27,7 @@ public class GamePanel extends JPanel implements Runnable, MouseInputListener, C
     /* ----------VARS---------- */
     int number = 1;
     final int DELAY = 50;
-    public boolean testMode = true;
+    public boolean testMode = false;
     int mouseX, mouseY;
     int LoopCounter = 0;
     public JLabel message = new JLabel();
