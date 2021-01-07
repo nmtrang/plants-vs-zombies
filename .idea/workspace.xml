@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PlantsVersusZombies:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a033d43-b9ac-4817-b030-e15b7063410f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1laSBa9TUhRCr9YkPNnqQa0kcZd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ANA_LAB/Lab1_3_Data_Analysis" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Syst" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="root.GUI.Main" />
+      <module name="PlantsVersusZombies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlantsVsZombies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="root.PlantsVsZombies" />
+      <module name="PlantsVersusZombies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="root.Test" />
+      <module name="PlantsVersusZombies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="root.TestPlant" />
+      <module name="PlantsVersusZombies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestPlant" />
+        <item itemvalue="Application.PlantsVsZombies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a033d43-b9ac-4817-b030-e15b7063410f" name="Default Changelist" comment="" />
+      <created>1607833581418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607833581418</updated>
+      <workItem from="1607833583529" duration="735000" />
+      <workItem from="1607834513962" duration="10773000" />
+      <workItem from="1607915628517" duration="3284000" />
+      <workItem from="1607926234197" duration="1116000" />
+      <workItem from="1608039731473" duration="93000" />
+      <workItem from="1608199594899" duration="1212000" />
+      <workItem from="1608208904181" duration="107000" />
+      <workItem from="1608210599989" duration="5659000" />
+      <workItem from="1608217962439" duration="4102000" />
+      <workItem from="1608442010974" duration="3110000" />
+      <workItem from="1608446997739" duration="598000" />
+      <workItem from="1608533946557" duration="25000" />
+      <workItem from="1608611855089" duration="1208000" />
+      <workItem from="1608614407600" duration="375000" />
+      <workItem from="1608623018750" duration="319000" />
+      <workItem from="1608624495055" duration="2214000" />
+      <workItem from="1608690728856" duration="5864000" />
+      <workItem from="1608777995391" duration="1225000" />
+      <workItem from="1608780233268" duration="35000" />
+      <workItem from="1608794532284" duration="28000" />
+      <workItem from="1608794638559" duration="398000" />
+      <workItem from="1608795123021" duration="239000" />
+      <workItem from="1608797063435" duration="261000" />
+      <workItem from="1608797372210" duration="174000" />
+      <workItem from="1608824873380" duration="1270000" />
+      <workItem from="1608826623379" duration="547000" />
+      <workItem from="1608827308981" duration="1612000" />
+      <workItem from="1608829050460" duration="1247000" />
+      <workItem from="1608880631380" duration="1279000" />
+      <workItem from="1608882556775" duration="307000" />
+      <workItem from="1608882893456" duration="142000" />
+      <workItem from="1608883063429" duration="786000" />
+      <workItem from="1608895896907" duration="185000" />
+      <workItem from="1608897102618" duration="281000" />
+      <workItem from="1608902395418" duration="287000" />
+      <workItem from="1608902901075" duration="741000" />
+      <workItem from="1608905032714" duration="635000" />
+      <workItem from="1608959212448" duration="526000" />
+      <workItem from="1608959810070" duration="224000" />
+      <workItem from="1609048679900" duration="140000" />
+      <workItem from="1609048866239" duration="2102000" />
+      <workItem from="1609051733015" duration="589000" />
+      <workItem from="1609119487809" duration="312000" />
+      <workItem from="1609120783233" duration="324000" />
+      <workItem from="1609122626252" duration="3048000" />
+      <workItem from="1609165419904" duration="340000" />
+      <workItem from="1609214555449" duration="606000" />
+      <workItem from="1609226453559" duration="1035000" />
+      <workItem from="1609230021490" duration="778000" />
+      <workItem from="1609246082067" duration="941000" />
+      <workItem from="1609249584930" duration="201000" />
+      <workItem from="1609254552758" duration="5514000" />
+      <workItem from="1609260244632" duration="331000" />
+      <workItem from="1609333764011" duration="63000" />
+      <workItem from="1609573140316" duration="53000" />
+      <workItem from="1609592925332" duration="244000" />
+      <workItem from="1609593226074" duration="3176000" />
+      <workItem from="1609598319311" duration="1958000" />
+      <workItem from="1609684063670" duration="1165000" />
+      <workItem from="1609721724233" duration="43000" />
+      <workItem from="1609856740949" duration="855000" />
+      <workItem from="1609910444436" duration="639000" />
+      <workItem from="1609918065717" duration="231000" />
+      <workItem from="1609918331548" duration="1186000" />
+      <workItem from="1609920114012" duration="4789000" />
+      <workItem from="1609927889981" duration="4852000" />
+      <workItem from="1609939658187" duration="343000" />
+      <workItem from="1609940023622" duration="1446000" />
+      <workItem from="1609942231323" duration="32000" />
+      <workItem from="1609942421128" duration="278000" />
+      <workItem from="1609942975794" duration="60000" />
+      <workItem from="1609943946801" duration="29000" />
+      <workItem from="1609944045485" duration="39000" />
+      <workItem from="1609945087700" duration="38000" />
+      <workItem from="1609945241307" duration="31000" />
+      <workItem from="1609945456746" duration="3715000" />
+      <workItem from="1609992828950" duration="558000" />
+      <workItem from="1609993653579" duration="9513000" />
+      <workItem from="1610003499234" duration="1124000" />
+      <workItem from="1610004631164" duration="569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
