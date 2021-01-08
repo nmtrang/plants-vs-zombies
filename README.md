@@ -22,7 +22,7 @@ Here is our [Report](https://docs.google.com/document/d/1FxKF-531hK_pAN7a6w6KYml
 
 # How to Play?
 Clone the repository and then choose your preferences below:
-git clone https://github.com/nmtrang/PvZ
+git clone https://github.com/nmtrang/PvZ.git
 - Run RunPvZ.cmd (if you use Windows) or RunPvZ.sh (if you use MacOS).
 - For developers, you can also run the game by running the Main.java in an IDE.
 - You can also run the game by clicking the PlantsVSZombies.jar too.
@@ -32,3 +32,7 @@ git clone https://github.com/nmtrang/PvZ
   The first round (day round) design with 50 zombies and 6 kinds of zombies (Normal Zombie, Flag Zombie, ConeHead Zombie, BucketHead Zombie and Newspaper Zombie) and 6 kinds of plants (Sunflower, Peashooter, Repeater, Snow Pea, Gatling Pea and Wallnut)
   The second round (night round) is more complicated. We add another kind of zombie is Snow Zombie (tougher and faster) and two kinds of plants (Sunshroom and Puffshroom). We also increase the number of zombies we have to kill in order to win to 80 zombies.
 - Besides that, we added some extra features. The first one is the Christmas theme. Since it is nearly holiday time so we add Christmas background and some holiday outfits for both zombies and plants. Second, we add another kind of zombie is Snow Zombie. This zombie is tougher, faster and has the appearance of Yeti - a mysterious creature that lives in Himalaya.
+
+# UML
+<img src="https://i.ibb.co/8btVS8m/UML.png">
+- For better view of the UML, please <a href="https://i.ibb.co/8btVS8m/UML.png">CLICK HERE</a>
