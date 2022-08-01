@@ -1,3 +1,5 @@
+[![Code Grade](https://api.codiga.io/project/34268/status/svg)](https://www.codiga.io)
+
 # Introduction
 This is our remake version of famous Plants vs Zombies© game of Popcap. This is a well-known game, and it is challenging to build it from scratch.
 
